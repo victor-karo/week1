@@ -30,11 +30,12 @@ background-image: linear-gradient(to bottom, gold 40%, grey 40%, grey 60%, brown
 ol{
     background-image: radial-gradient(circle, grey 30%, cyan 30%);
 }
-dl{
+
+p{
        height: 100px;
       overflow: auto;
      line-height: 1.5;
-    
+    font-size: 2em;
 
 }
 
